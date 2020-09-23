@@ -11,7 +11,8 @@ My name is Dmitriy and I'm backend developer. (PHP, Python, Golang, JS)
 - 💬 Ask me about
   - 🤖 [Home Assistant](https://www.home-assistant.io/), home automation and IOT
   🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
-  - 🥊 [Self-hosting](https://www.reddit.com/r/selfhosted/)
+  - Reverse-engineer private API
+  - Ansible, Gitlab CI
   
 
 
@@ -25,14 +26,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-- 💬 Ask me about
-  - 🤖 [Home Assistant](https://www.home-assistant.io/), home automation and IOT
-  🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
-  - Reverse-engineer private API
-  - Ansible, Gitlab CI
-  
-  
-  
+- 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
