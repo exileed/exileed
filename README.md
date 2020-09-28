@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is Dmitriy and I'm backend developer. (PHP, Python, Golang, JS)  
+My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, Python, Golang, JS)  
 
 
 
 - 🌱 I’m currently learning
+   - [GraphQL](https://graphql.org/)
    - Kubernetes/[k3s](https://k3s.io/)
    - [Tensorflow](https://www.tensorflow.org/)
 
@@ -12,7 +13,8 @@ My name is Dmitriy and I'm backend developer. (PHP, Python, Golang, JS)
   - 🤖 [Home Assistant](https://www.home-assistant.io/), home automation and IOT
   🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
   - Reverse-engineer private API
-  - Ansible, Gitlab CI
+  - Ansible, Gitlab CI, RabbitMQ ...
+- ⚡ Fun fact: I enjoy cooking
   
 ![ExileeD wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=exileed)
 
