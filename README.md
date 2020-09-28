@@ -16,7 +16,7 @@ My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, 
   - Ansible, Gitlab CI, RabbitMQ ...
 - ⚡ Fun fact: I enjoy cooking
   
-![ExileeD wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=exileed)
+![ExileeD wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=exileed&hide_progress=true)
 
 <!--
 **exileed/exileed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
