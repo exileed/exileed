@@ -8,6 +8,7 @@ My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, 
    - [GraphQL](https://graphql.org/)
    - Kubernetes/[k3s](https://k3s.io/)
    - [Tensorflow](https://www.tensorflow.org/)
+   - [Terraform](https://www.terraform.io/)
 
 - 💬 Ask me about
   - 🤖 [Home Assistant](https://www.home-assistant.io/), home automation and IOT
