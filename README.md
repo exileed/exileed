@@ -15,7 +15,7 @@ My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, 
   - 🤖 [Home Assistant](https://www.home-assistant.io/), home automation and IOT
   🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
   - Reverse-engineer private API
-  - Ansible, Gitlab CI, RabbitMQ ...
+  - Ansible, Gitlab CI, Github actions, RabbitMQ ...
 - 📫 How to reach me: me@exileed.com
 - ⚡ Fun fact: I enjoy cooking
   
