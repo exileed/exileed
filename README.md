@@ -8,7 +8,6 @@ My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, 
    - [GraphQL](https://graphql.org/)
    - Kubernetes/[k3s](https://k3s.io/)
    - [Tensorflow](https://www.tensorflow.org/)
-   - [Terraform](https://www.terraform.io/)
    - [JetPack Compose](https://developer.android.com/jetpack/compose)
 
 - 💬 Ask me about
@@ -16,6 +15,7 @@ My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, 
   🐋 [Docker](https://www.docker.com/), [Docker Swarm](https://docs.docker.com/engine/swarm/) and [buildx](https://docs.docker.com/buildx/working-with-buildx/)
   - Reverse-engineer private API
   - Ansible, Gitlab CI, Github actions, RabbitMQ ...
+  - [Terraform](https://www.terraform.io/)
 - 📫 How to reach me: me@exileed.com
 - ⚡ Fun fact: I enjoy cooking
   
