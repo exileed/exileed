@@ -17,6 +17,7 @@ My name is [Dmitriy Kuts](https://exileed.com) and I'm backend developer. (PHP, 
   - Reverse-engineer private API
   - Ansible, Gitlab CI, Github actions, RabbitMQ, Opensearch ...
   - [Terraform](https://www.terraform.io/), [Terragrunt](https://terragrunt.gruntwork.io/)
+  - Knot DNS, Prometheus, Sentry
 - 📫 How to reach me: me@exileed.com
 - ⚡ Fun fact: I enjoy cooking
   
